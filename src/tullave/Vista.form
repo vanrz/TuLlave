@@ -170,6 +170,9 @@
           </Events>
         </Component>
         <Component class="javax.swing.JTextField" name="cajaNombre">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1"/>
+          </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="cajaSaldo">
           <Events>

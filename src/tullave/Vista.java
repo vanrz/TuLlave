@@ -110,6 +110,8 @@ public class Vista extends javax.swing.JFrame {
             }
         });
 
+        cajaNombre.setText("1");
+
         cajaSaldo.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cajaSaldoActionPerformed(evt);
